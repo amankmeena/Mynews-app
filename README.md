@@ -1,4 +1,4 @@
-# Getting Started with Create React App: Mynews App
+# Mynews App
 
 This project was bootstrapped with [Create React App]
 
